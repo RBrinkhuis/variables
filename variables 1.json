@@ -1,0 +1,1107 @@
+{
+  "01. Primitives": {
+    "name": "01. Primitives",
+    "radius": {
+      "radius-360": {
+        "name": "radius/radius-360",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      },
+      "radius-0": {
+        "name": "radius/radius-0",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      },
+      "radius-6": {
+        "name": "radius/radius-6",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      },
+      "radius-3": {
+        "name": "radius/radius-3",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      }
+    },
+    "color": {
+      "wehkamp": {
+        "green": {
+          "green-50": {
+            "name": "color/wehkamp/green/green-50",
+            "description": "",
+            "value": "#118844",
+            "type": "color"
+          },
+          "green-40": {
+            "name": "color/wehkamp/green/green-40",
+            "description": "",
+            "value": "#51a877",
+            "type": "color"
+          },
+          "green-20": {
+            "name": "color/wehkamp/green/green-20",
+            "description": "",
+            "value": "#92c9a9",
+            "type": "color"
+          },
+          "green-10": {
+            "name": "color/wehkamp/green/green-10",
+            "description": "",
+            "value": "#e7f3ec",
+            "type": "color"
+          },
+          "green-05": {
+            "name": "color/wehkamp/green/green-05",
+            "description": "",
+            "value": "#f3f9f5",
+            "type": "color"
+          }
+        },
+        "coral": {
+          "coral-30": {
+            "name": "color/wehkamp/coral/coral-30",
+            "description": "color-coral-64",
+            "value": "#ff8383",
+            "type": "color"
+          },
+          "coral-20": {
+            "name": "color/wehkamp/coral/coral-20",
+            "description": "color-coral-40",
+            "value": "#ffbbbb",
+            "type": "color"
+          },
+          "coral-40": {
+            "name": "color/wehkamp/coral/coral-40",
+            "description": "color-coral",
+            "value": "#ff5757",
+            "type": "color"
+          },
+          "coral-10": {
+            "name": "color/wehkamp/coral/coral-10",
+            "description": "color-coral-11",
+            "value": "#ffeeee",
+            "type": "color"
+          }
+        },
+        "yellow": {
+          "yellow-05": {
+            "name": "color/wehkamp/yellow/yellow-05",
+            "description": "",
+            "value": "#fff9ee",
+            "type": "color"
+          },
+          "yellow-20": {
+            "name": "color/wehkamp/yellow/yellow-20",
+            "description": "",
+            "value": "#ffda83",
+            "type": "color"
+          },
+          "yellow-10": {
+            "name": "color/wehkamp/yellow/yellow-10",
+            "description": "",
+            "value": "#ffe8b1",
+            "type": "color"
+          },
+          "yellow-30": {
+            "name": "color/wehkamp/yellow/yellow-30",
+            "description": "",
+            "value": "#ffcc55",
+            "type": "color"
+          }
+        }
+      },
+      "union river": {
+        "bohogreen": {
+          "10": {
+            "name": "color/union river/bohogreen/10",
+            "description": "",
+            "value": "#e5e9e9",
+            "type": "color"
+          },
+          "bohogreen-40": {
+            "name": "color/union river/bohogreen/bohogreen-40",
+            "description": "",
+            "value": "#7f9392",
+            "type": "color"
+          },
+          "bohogreen-30": {
+            "name": "color/union river/bohogreen/bohogreen-30",
+            "description": "",
+            "value": "#99a9a8",
+            "type": "color"
+          },
+          "bohogreen-20": {
+            "name": "color/union river/bohogreen/bohogreen-20",
+            "description": "",
+            "value": "#b2bebe",
+            "type": "color"
+          }
+        },
+        "navyblue": {
+          "navyblue-40": {
+            "name": "color/union river/navyblue/navyblue-40",
+            "description": "",
+            "value": "#828c9b",
+            "type": "color"
+          },
+          "navyblue-20": {
+            "name": "color/union river/navyblue/navyblue-20",
+            "description": "",
+            "value": "#d5d9de",
+            "type": "color"
+          },
+          "navyblue-30": {
+            "name": "color/union river/navyblue/navyblue-30",
+            "description": "",
+            "value": "#abb3bc",
+            "type": "color"
+          },
+          "navyblue-70": {
+            "name": "color/union river/navyblue/navyblue-70",
+            "description": "",
+            "value": "#2e4058",
+            "type": "color"
+          },
+          "navyblue-60": {
+            "name": "color/union river/navyblue/navyblue-60",
+            "description": "",
+            "value": "#586679",
+            "type": "color"
+          }
+        },
+        "blue": {
+          "blue-50": {
+            "name": "color/union river/blue/blue-50",
+            "description": "",
+            "value": "#51709a",
+            "type": "color"
+          },
+          "blue-20": {
+            "name": "color/union river/blue/blue-20",
+            "description": "",
+            "value": "#b2c2d7",
+            "type": "color"
+          }
+        }
+      },
+      "kleertjes": {
+        "blue": {
+          "blue-30": {
+            "name": "color/kleertjes/blue/blue-30",
+            "description": "",
+            "value": "#77c7ce",
+            "type": "color"
+          },
+          "blue-10": {
+            "name": "color/kleertjes/blue/blue-10",
+            "description": "",
+            "value": "#c4e6e9",
+            "type": "color"
+          },
+          "blue-05": {
+            "name": "color/kleertjes/blue/blue-05",
+            "description": "",
+            "value": "#eefbfb",
+            "type": "color"
+          },
+          "blue-40": {
+            "name": "color/kleertjes/blue/blue-40",
+            "description": "",
+            "value": "#36939b",
+            "type": "color"
+          }
+        },
+        "red": {
+          "red-50": {
+            "name": "color/kleertjes/red/red-50",
+            "description": "",
+            "value": "#d10a11",
+            "type": "color"
+          }
+        },
+        "green": {
+          "green-70": {
+            "name": "color/kleertjes/green/green-70",
+            "description": "",
+            "value": "#155a3b",
+            "type": "color"
+          },
+          "green-10": {
+            "name": "color/kleertjes/green/green-10",
+            "description": "",
+            "value": "#e7f3ec",
+            "type": "color"
+          }
+        },
+        "orange": {
+          "orange-30": {
+            "name": "color/kleertjes/orange/orange-30",
+            "description": "",
+            "value": "#ffa647",
+            "type": "color"
+          }
+        }
+      },
+      "system": {
+        "transparent": {
+          "transparent-black-64": {
+            "name": "color/system/transparent/transparent-black-64",
+            "description": "",
+            "value": "#000000",
+            "type": "color"
+          },
+          "transparent-white-00": {
+            "name": "color/system/transparent/transparent-white-00",
+            "description": "",
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "transparent-white-40": {
+            "name": "color/system/transparent/transparent-white-40",
+            "description": "",
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "transparent-white-60": {
+            "name": "color/system/transparent/transparent-white-60",
+            "description": "",
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "neutral-20": {
+            "name": "color/system/neutral/neutral-20",
+            "description": "",
+            "value": "#cecece",
+            "type": "color"
+          },
+          "neutral-90": {
+            "name": "color/system/neutral/neutral-90",
+            "description": "color-grey",
+            "value": "#1f1f1f",
+            "type": "color"
+          },
+          "neutral-10": {
+            "name": "color/system/neutral/neutral-10",
+            "description": "",
+            "value": "#e5e5e5",
+            "type": "color"
+          },
+          "neutral-60": {
+            "name": "color/system/neutral/neutral-60",
+            "description": "color-grey-64",
+            "value": "#5c5c5c",
+            "type": "color"
+          },
+          "neutral-05": {
+            "name": "color/system/neutral/neutral-05",
+            "description": "",
+            "value": "#f2f2f2",
+            "type": "color"
+          },
+          "neutral-00": {
+            "name": "color/system/neutral/neutral-00",
+            "description": "",
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "neutral-30": {
+            "name": "color/system/neutral/neutral-30",
+            "description": "",
+            "value": "#999999",
+            "type": "color"
+          }
+        },
+        "white": {
+          "name": "color/system/white",
+          "description": "",
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "black": {
+          "name": "color/system/black",
+          "description": "",
+          "value": "#000000",
+          "type": "color"
+        },
+        "red": {
+          "red-30": {
+            "name": "color/system/red/red-30",
+            "description": "",
+            "value": "#f399a0",
+            "type": "color"
+          },
+          "red-40": {
+            "name": "color/system/red/red-40",
+            "description": "",
+            "value": "#ec5d68",
+            "type": "color"
+          },
+          "red-10": {
+            "name": "color/system/red/red-10",
+            "description": "",
+            "value": "#fdf4f4",
+            "type": "color"
+          },
+          "red-50": {
+            "name": "color/system/red/red-50",
+            "description": "",
+            "value": "#e52130",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "02. Tokens": {
+    "name": "02. Tokens",
+    "component": {
+      "tab": {
+        "radius": {
+          "name": "component/tab/radius",
+          "description": "",
+          "value": "{02. Tokens.semantic.radius.radius-none}",
+          "type": "color"
+        }
+      },
+      "radiocard": {
+        "radius": {
+          "name": "component/radiocard/radius",
+          "description": "",
+          "value": "{02. Tokens.semantic.radius.radius-none}",
+          "type": "color"
+        }
+      },
+      "label": {
+        "radius": {
+          "radius": {
+            "name": "component/label/radius/radius",
+            "description": "",
+            "value": "{02. Tokens.semantic.radius.radius-none}",
+            "type": "color"
+          }
+        },
+        "color": {
+          "label-setdiscount-text": {
+            "name": "component/label/color/label-setdiscount-text",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.text.text}",
+            "type": "color"
+          },
+          "label-soldout-background": {
+            "name": "component/label/color/label-soldout-background",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.background.bold.background-bold}",
+            "type": "color"
+          },
+          "label-background": {
+            "name": "component/label/color/label-background",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.background.default.background-subtle}",
+            "type": "color"
+          },
+          "label-sustainable-background": {
+            "name": "component/label/color/label-sustainable-background",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.background.accent.background-accent-green}",
+            "type": "color"
+          },
+          "label-extradiscount-background": {
+            "name": "component/label/color/label-extradiscount-background",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.background.accent.background-accent-red}",
+            "type": "color"
+          },
+          "label-soldout-text": {
+            "name": "component/label/color/label-soldout-text",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.text.text-inverse-subtle}",
+            "type": "color"
+          },
+          "label-setdiscount-background": {
+            "name": "component/label/color/label-setdiscount-background",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.background.accent.background-accent-yellow-bold}",
+            "type": "color"
+          },
+          "label-extradiscount-text": {
+            "name": "component/label/color/label-extradiscount-text",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.text.text-accent-red}",
+            "type": "color"
+          },
+          "label-discount-background": {
+            "name": "component/label/color/label-discount-background",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.background.accent.background-accent-red-bold}",
+            "type": "color"
+          },
+          "label-text": {
+            "name": "component/label/color/label-text",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.text.text}",
+            "type": "color"
+          },
+          "label-sustainable-text": {
+            "name": "component/label/color/label-sustainable-text",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.text.text-accent-green}",
+            "type": "color"
+          },
+          "label-discount-text": {
+            "name": "component/label/color/label-discount-text",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.text.text-inverse}",
+            "type": "color"
+          }
+        }
+      },
+      "button": {
+        "radius": {
+          "border-radius-icon": {
+            "name": "component/button/radius/border-radius-icon",
+            "description": "",
+            "value": "{02. Tokens.semantic.radius.radius-round}",
+            "type": "color"
+          },
+          "border-radius": {
+            "name": "component/button/radius/border-radius",
+            "description": "",
+            "value": "{02. Tokens.semantic.radius.radius-none}",
+            "type": "color"
+          }
+        },
+        "color": {
+          "secondary": {
+            "button-secondary-text": {
+              "name": "component/button/color/secondary/button-secondary-text",
+              "description": "",
+              "value": "{02. Tokens.semantic.color.text.text-inverse}",
+              "type": "color"
+            },
+            "button-secondary-background-siabled": {
+              "name": "component/button/color/secondary/button-secondary-background-siabled",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-30}",
+              "type": "color"
+            },
+            "button-secondary-background-hover": {
+              "name": "component/button/color/secondary/button-secondary-background-hover",
+              "description": "",
+              "value": "{02. Tokens.semantic.color.background.bold.background-bold-hover}",
+              "type": "color"
+            },
+            "button-secondary-background": {
+              "name": "component/button/color/secondary/button-secondary-background",
+              "description": "",
+              "value": "{02. Tokens.semantic.color.background.bold.background-bold}",
+              "type": "color"
+            }
+          },
+          "primary": {
+            "button-primary-background-hover": {
+              "name": "component/button/color/primary/button-primary-background-hover",
+              "description": "",
+              "value": "{02. Tokens.semantic.color.background.brand.background-brand-subtle}",
+              "type": "color"
+            },
+            "button-primary-background-disabled": {
+              "name": "component/button/color/primary/button-primary-background-disabled",
+              "description": "",
+              "value": "{02. Tokens.semantic.color.background.brand.background-brand-subtlest}",
+              "type": "color"
+            },
+            "button-primary-background": {
+              "name": "component/button/color/primary/button-primary-background",
+              "description": "",
+              "value": "{02. Tokens.semantic.color.background.brand.background-brand}",
+              "type": "color"
+            },
+            "button-primary-text": {
+              "name": "component/button/color/primary/button-primary-text",
+              "description": "",
+              "value": "{02. Tokens.semantic.color.text.text-inverse}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "badge": {
+        "badge-background": {
+          "name": "component/badge/badge-background",
+          "description": "",
+          "value": "{02. Tokens.semantic.color.background.brand.background-brand}",
+          "type": "color"
+        }
+      },
+      "footer": {
+        "footer-border-accent": {
+          "name": "component/footer/footer-border-accent",
+          "description": "",
+          "value": "{02. Tokens.color.system.transparent.transparent-white-00}",
+          "type": "color"
+        },
+        "footer-text-subtle": {
+          "name": "component/footer/footer-text-subtle",
+          "description": "",
+          "value": "{02. Tokens.semantic.color.text.text-subtle}",
+          "type": "color"
+        },
+        "footer-text": {
+          "name": "component/footer/footer-text",
+          "description": "",
+          "value": "{02. Tokens.semantic.color.text.text}",
+          "type": "color"
+        },
+        "footer-background": {
+          "name": "component/footer/footer-background",
+          "description": "",
+          "value": "{02. Tokens.semantic.color.background.default.background-subtle}",
+          "type": "color"
+        }
+      },
+      "header": {
+        "header-text-link-hover": {
+          "name": "component/header/header-text-link-hover",
+          "description": "",
+          "value": "{02. Tokens.semantic.color.text.text-link-hover}",
+          "type": "color"
+        },
+        "header-text-link": {
+          "name": "component/header/header-text-link",
+          "description": "",
+          "value": "{02. Tokens.semantic.color.text.text-link}",
+          "type": "color"
+        },
+        "header-border-accent": {
+          "name": "component/header/header-border-accent",
+          "description": "",
+          "value": "{02. Tokens.semantic.color.border.brand.border-brand}",
+          "type": "color"
+        }
+      },
+      "input": {
+        "radius": {
+          "name": "component/input/radius",
+          "description": "",
+          "value": "{02. Tokens.semantic.radius.radius-none}",
+          "type": "color"
+        }
+      }
+    },
+    "semantic": {
+      "radius": {
+        "radius-none": {
+          "name": "semantic/radius/radius-none",
+          "description": "",
+          "value": "{02. Tokens.radius.radius-0}",
+          "type": "color"
+        },
+        "radius-sm": {
+          "name": "semantic/radius/radius-sm",
+          "description": "",
+          "value": "{02. Tokens.radius.radius-6}",
+          "type": "color"
+        },
+        "radius-round": {
+          "name": "semantic/radius/radius-round",
+          "description": "",
+          "value": "{02. Tokens.radius.radius-360}",
+          "type": "color"
+        },
+        "radius-xs": {
+          "name": "semantic/radius/radius-xs",
+          "description": "",
+          "value": "{02. Tokens.radius.radius-3}",
+          "type": "color"
+        }
+      },
+      "color": {
+        "text": {
+          "text-brand": {
+            "name": "semantic/color/text/text-brand",
+            "description": "",
+            "value": "{02. Tokens.color.wehkamp.coral.coral-40}",
+            "type": "color"
+          },
+          "text-brand-subtle": {
+            "name": "semantic/color/text/text-brand-subtle",
+            "description": "",
+            "value": "{02. Tokens.semantic.color.background.brand.background-brand-subtle}",
+            "type": "color"
+          },
+          "text-link-hover": {
+            "name": "semantic/color/text/text-link-hover",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-60}",
+            "type": "color"
+          },
+          "text-accent-green": {
+            "name": "semantic/color/text/text-accent-green",
+            "description": "",
+            "value": "{02. Tokens.color.wehkamp.green.green-50}",
+            "type": "color"
+          },
+          "text-link": {
+            "name": "semantic/color/text/text-link",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-90}",
+            "type": "color"
+          },
+          "text-link-subtle": {
+            "name": "semantic/color/text/text-link-subtle",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-60}",
+            "type": "color"
+          },
+          "text-accent-red": {
+            "name": "semantic/color/text/text-accent-red",
+            "description": "",
+            "value": "{02. Tokens.color.system.red.red-50}",
+            "type": "color"
+          },
+          "text-danger": {
+            "name": "semantic/color/text/text-danger",
+            "description": "",
+            "value": "{02. Tokens.color.system.red.red-50}",
+            "type": "color"
+          },
+          "text-inverse-disabled": {
+            "name": "semantic/color/text/text-inverse-disabled",
+            "description": "",
+            "value": "{02. Tokens.color.system.transparent.transparent-white-40}",
+            "type": "color"
+          },
+          "text-inverse-hover": {
+            "name": "semantic/color/text/text-inverse-hover",
+            "description": "",
+            "value": "{02. Tokens.color.system.transparent.transparent-white-60}",
+            "type": "color"
+          },
+          "text-inverse": {
+            "name": "semantic/color/text/text-inverse",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-00}",
+            "type": "color"
+          },
+          "text-disabled": {
+            "name": "semantic/color/text/text-disabled",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-30}",
+            "type": "color"
+          },
+          "text-subtle": {
+            "name": "semantic/color/text/text-subtle",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-60}",
+            "type": "color"
+          },
+          "text": {
+            "name": "semantic/color/text/text",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-90}",
+            "type": "color"
+          },
+          "text-inverse-subtle": {
+            "name": "semantic/color/text/text-inverse-subtle",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-05}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "bold": {
+            "border-bold-pressed": {
+              "name": "semantic/color/border/bold/border-bold-pressed",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-30}",
+              "type": "color"
+            },
+            "border-bold-hover": {
+              "name": "semantic/color/border/bold/border-bold-hover",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-60}",
+              "type": "color"
+            },
+            "border-bold": {
+              "name": "semantic/color/border/bold/border-bold",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-90}",
+              "type": "color"
+            }
+          },
+          "brand": {
+            "border-brand-subtle": {
+              "name": "semantic/color/border/brand/border-brand-subtle",
+              "description": "",
+              "value": "{02. Tokens.color.wehkamp.coral.coral-30}",
+              "type": "color"
+            },
+            "border-brand": {
+              "name": "semantic/color/border/brand/border-brand",
+              "description": "",
+              "value": "{02. Tokens.color.wehkamp.coral.coral-40}",
+              "type": "color"
+            },
+            "border-brand-subtlest": {
+              "name": "semantic/color/border/brand/border-brand-subtlest",
+              "description": "",
+              "value": "{02. Tokens.color.wehkamp.coral.coral-20}",
+              "type": "color"
+            }
+          },
+          "link": {
+            "border-link-hover": {
+              "name": "semantic/color/border/link/border-link-hover",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-90}",
+              "type": "color"
+            },
+            "border-link": {
+              "name": "semantic/color/border/link/border-link",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-20}",
+              "type": "color"
+            }
+          },
+          "selected": {
+            "border-selected": {
+              "name": "semantic/color/border/selected/border-selected",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-90}",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "border-accent-grey": {
+              "name": "semantic/color/border/accent/border-accent-grey",
+              "description": "Use for lines on darker surfaces, for example an image.",
+              "value": "{02. Tokens.color.system.neutral.neutral-30}",
+              "type": "color"
+            }
+          },
+          "input": {
+            "border-input-hover": {
+              "name": "semantic/color/border/input/border-input-hover",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-30}",
+              "type": "color"
+            },
+            "border-input": {
+              "name": "semantic/color/border/input/border-input",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-10}",
+              "type": "color"
+            }
+          },
+          "default": {
+            "border-subtle": {
+              "name": "semantic/color/border/default/border-subtle",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-05}",
+              "type": "color"
+            },
+            "border": {
+              "name": "semantic/color/border/default/border",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-10}",
+              "type": "color"
+            }
+          },
+          "inverse": {
+            "border-inverse-pressed": {
+              "name": "semantic/color/border/inverse/border-inverse-pressed",
+              "description": "",
+              "value": "{02. Tokens.color.system.transparent.transparent-white-40}",
+              "type": "color"
+            },
+            "border-inverse-hover": {
+              "name": "semantic/color/border/inverse/border-inverse-hover",
+              "description": "",
+              "value": "{02. Tokens.color.system.transparent.transparent-white-60}",
+              "type": "color"
+            },
+            "border-inverse": {
+              "name": "semantic/color/border/inverse/border-inverse",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-00}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "border-disabled": {
+              "name": "semantic/color/border/disabled/border-disabled",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-10}",
+              "type": "color"
+            }
+          },
+          "focus": {
+            "border-focus": {
+              "name": "semantic/color/border/focus/border-focus",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-10}",
+              "type": "color"
+            }
+          }
+        },
+        "background": {
+          "bold": {
+            "background-bold-pressed": {
+              "name": "semantic/color/background/bold/background-bold-pressed",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-30}",
+              "type": "color"
+            },
+            "background-bold-hover": {
+              "name": "semantic/color/background/bold/background-bold-hover",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-60}",
+              "type": "color"
+            },
+            "background-bold": {
+              "name": "semantic/color/background/bold/background-bold",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-90}",
+              "type": "color"
+            }
+          },
+          "brand": {
+            "background-brand": {
+              "name": "semantic/color/background/brand/background-brand",
+              "description": "",
+              "value": "{02. Tokens.color.wehkamp.coral.coral-40}",
+              "type": "color"
+            },
+            "background-brand-subtle": {
+              "name": "semantic/color/background/brand/background-brand-subtle",
+              "description": "",
+              "value": "{02. Tokens.color.wehkamp.coral.coral-30}",
+              "type": "color"
+            },
+            "background-brand-subtlest": {
+              "name": "semantic/color/background/brand/background-brand-subtlest",
+              "description": "",
+              "value": "{02. Tokens.color.wehkamp.coral.coral-20}",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "background-warning": {
+              "name": "semantic/color/background/warning/background-warning",
+              "description": "",
+              "value": "{02. Tokens.color.wehkamp.yellow.yellow-30}",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "background-accent-red": {
+              "name": "semantic/color/background/accent/background-accent-red",
+              "description": "",
+              "value": "{02. Tokens.color.system.red.red-10}",
+              "type": "color"
+            },
+            "background-accent-green": {
+              "name": "semantic/color/background/accent/background-accent-green",
+              "description": "",
+              "value": "{02. Tokens.color.wehkamp.green.green-05}",
+              "type": "color"
+            },
+            "background-accent-green-bold": {
+              "name": "semantic/color/background/accent/background-accent-green-bold",
+              "description": "",
+              "value": "{02. Tokens.color.wehkamp.green.green-50}",
+              "type": "color"
+            },
+            "background-accent-red-bold": {
+              "name": "semantic/color/background/accent/background-accent-red-bold",
+              "description": "",
+              "value": "{02. Tokens.color.system.red.red-50}",
+              "type": "color"
+            },
+            "background-accent-yellow": {
+              "name": "semantic/color/background/accent/background-accent-yellow",
+              "description": "",
+              "value": "{02. Tokens.color.wehkamp.yellow.yellow-05}",
+              "type": "color"
+            },
+            "background-accent-yellow-bold": {
+              "name": "semantic/color/background/accent/background-accent-yellow-bold",
+              "description": "",
+              "value": "{02. Tokens.color.wehkamp.yellow.yellow-30}",
+              "type": "color"
+            }
+          },
+          "selected": {
+            "background-selected-bold": {
+              "name": "semantic/color/background/selected/background-selected-bold",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-90}",
+              "type": "color"
+            },
+            "background-selected-hover": {
+              "name": "semantic/color/background/selected/background-selected-hover",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-60}",
+              "type": "color"
+            },
+            "background-selected": {
+              "name": "semantic/color/background/selected/background-selected",
+              "description": "",
+              "value": "{02. Tokens.color.system.transparent.transparent-white-00}",
+              "type": "color"
+            }
+          },
+          "default": {
+            "background-subtle": {
+              "name": "semantic/color/background/default/background-subtle",
+              "description": "Alternative background for light surfaces on a white background.",
+              "value": "{02. Tokens.color.system.neutral.neutral-05}",
+              "type": "color"
+            },
+            "background": {
+              "name": "semantic/color/background/default/background",
+              "description": "To be used for white backgrounds, such as the canvas or a layer. Use $background-input for interactive fields.",
+              "value": "{02. Tokens.color.system.neutral.neutral-00}",
+              "type": "color"
+            }
+          },
+          "danger": {
+            "background-danger": {
+              "name": "semantic/color/background/danger/background-danger",
+              "description": "",
+              "value": "{02. Tokens.color.system.red.red-50}",
+              "type": "color"
+            }
+          },
+          "input": {
+            "background-input": {
+              "name": "semantic/color/background/input/background-input",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-00}",
+              "type": "color"
+            },
+            "background-input-disabled": {
+              "name": "semantic/color/background/input/background-input-disabled",
+              "description": "",
+              "value": "{02. Tokens.color.system.neutral.neutral-05}",
+              "type": "color"
+            }
+          }
+        },
+        "miscellaneous": {
+          "overlay-bold": {
+            "name": "semantic/color/miscellaneous/overlay-bold",
+            "description": "",
+            "value": "{02. Tokens.color.system.transparent.transparent-black-64}",
+            "type": "color"
+          },
+          "overlay": {
+            "name": "semantic/color/miscellaneous/overlay",
+            "description": "",
+            "value": "{02. Tokens.color.system.transparent.transparent-white-40}",
+            "type": "color"
+          },
+          "overlay-subtle": {
+            "name": "semantic/color/miscellaneous/overlay-subtle",
+            "description": "",
+            "value": "{02. Tokens.color.system.transparent.transparent-white-60}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "icon": {
+            "name": "semantic/color/icon/icon",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-90}",
+            "type": "color"
+          },
+          "icon-inverse-hover": {
+            "name": "semantic/color/icon/icon-inverse-hover",
+            "description": "",
+            "value": "{02. Tokens.color.system.transparent.transparent-white-60}",
+            "type": "color"
+          },
+          "icon-inverse": {
+            "name": "semantic/color/icon/icon-inverse",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-00}",
+            "type": "color"
+          },
+          "icon-disabled": {
+            "name": "semantic/color/icon/icon-disabled",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-30}",
+            "type": "color"
+          },
+          "icon-subtle": {
+            "name": "semantic/color/icon/icon-subtle",
+            "description": "",
+            "value": "{02. Tokens.color.system.neutral.neutral-60}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "Test components": {
+    "name": "Test components",
+    "Recommender": {
+      "min-wdith-teaser": {
+        "name": "Recommender/min-wdith-teaser",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      },
+      "width": {
+        "name": "Recommender/width",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      },
+      "min-width-tile": {
+        "name": "Recommender/min-width-tile",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      }
+    },
+    "Footer": {
+      "showBorder": {
+        "name": "Footer/showBorder",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      },
+      "paddingContainer": {
+        "name": "Footer/paddingContainer",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      },
+      "min-widthColumn": {
+        "name": "Footer/min-widthColumn",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      },
+      "widthScreen": {
+        "name": "Footer/widthScreen",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      },
+      "showChevron": {
+        "name": "Footer/showChevron",
+        "description": "",
+        "value": "#NaNNaNNaN",
+        "type": "color"
+      }
+    }
+  }
+}
